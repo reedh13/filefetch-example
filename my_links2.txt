@@ -1,2 +1,1 @@
 reedh13/filefetch-example
-https://raw.githubusercontent.com/reedh13/pl-lungct2/master/covid1.dcm
