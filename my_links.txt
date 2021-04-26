@@ -1,2 +1,0 @@
-https://github.com/FNNDSC/pl-lungct/tree/master/data/images
-https://github.com/FNNDSC/CHRIS_docs
